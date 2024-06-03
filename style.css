@@ -1,0 +1,142 @@
+.navbar{
+	margin-top: -10px;
+	margin-left: -10px;
+	margin-right: -10px;
+	display: flex;
+  justify-content: space-between;
+  align-items: center;
+	background-color: #ff8e10;
+}
+.links{
+	display: flex;
+  justify-content: flex-end;
+	background-color: #ff8e10;
+}
+
+.link {
+	text-decoration: none;
+  margin: 10px 30px;
+  color: darkblue;
+}
+
+.link:hover {
+  color: mintcream;
+}
+
+body{
+	background-color: mintcream;
+}
+
+h1{
+	padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+		margin-top: 0px;
+	margin-left: -10px;
+	margin-right: -10px;
+  font-family: "Fjalla One", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  font-style: normal;
+	background-color: #ffefd5;
+	color: darkorange;
+}
+
+h2{
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+		margin-top: 0px;
+	margin-left: -10px;
+	margin-right: -10px;
+	font-size: 12px;
+	font-family: arial;
+	background-color: #ffefd5;
+	color: darkorange;
+}
+
+.titre{
+	margin-left: -10px;
+	margin-right: -10px;
+	background-color: #ffefd5;
+}
+
+h3{
+		margin-left: 20px;
+font-family: "Fjalla One", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  font-style: normal;
+	color: darkblue;
+}
+
+.bienvenue{
+		margin-left: -10px;
+	margin-right: -10px;
+	display: flex;
+	justify-content: center;
+	background-color: #afd0eb;
+}
+
+div{
+	background-color: #ffefd5;
+}
+
+.btn-pink {
+  display: inline-block;
+  color: mintcream;
+  background: darkblue;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  font-family: "Fjalla One", sans-serif;
+}
+
+.btn-pink:hover {
+  color: mintcream;
+  opacity: 0.8;
+}
+
+p{
+	font-size: 14.5px;
+	font-family: arial;
+}
+
+ol{
+	font-size: 14.5px;
+	font-family: arial;
+}
+
+ul{
+	font-size: 14.5px;
+	font-family: arial;
+}
+
+strong{
+	color: darkorange;
+}
+
+#exciting {
+	 font-family: "Fjalla One", sans-serif;
+	 color: mintcream;
+  background: darkorange;
+  border: 1px solid #c76600;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 1px #c76600;
+}
+
+#exciting:before {
+  content: 'ℹ️';
+  margin-right: 5px;
+}
+
+.tortues{
+	height: 250px;
+}
+
+.ligne li{
+		margin-top: 30px;
+	line-height: 300%;
+}
+
